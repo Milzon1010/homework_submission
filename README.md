@@ -21,3 +21,21 @@ Make sure you have the following Python packages installed:
 
 ```bash
 pip install requests beautifulsoup4
+
+📂 Output
+✅ Scraped data is saved to kompas_headlines.csv
+
+✅ You can extend the scripts for real-world sources (e.g. Kompas, KAI, BMKG)
+
+📌 Notes
+All scripts are educational and safe for learning use.
+
+Rate limiting and headers are implemented to simulate ethical scraping.
+
+No live site is scraped by default – data is simulated.
+
+👨‍💻 Author
+Milzon1010 – GitHub Profile
+
+📜 License
+This project is licensed for personal and educational purposes only.
